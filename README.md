@@ -40,9 +40,9 @@ Magnet Runner is a physics-inspired platform game where the player controls a ma
 
 ---
 
-## 💾 Download
+## 🚀 Download
 
-You can download the game from the EXE folder.
+👉 [Download Magnet Runner](https://github.com/cagrickr/magnet-runner-game/releases/latest)
 
 ---
 
